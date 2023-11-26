@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanshushukla&label=Profile%20views&color=0e75b6&style=flat-square" alt="dipanshushukla" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipanshushukla" alt="dipanshushukla" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipanshushukla&column=-1" alt="dipanshushukla" /></a> </p>
 
 - 🌱 I’m currently learning **UX Design**
 
@@ -25,8 +25,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dipanshushukla"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dipanshushukla" /></a><a href="https://ko-fi.com/codebunny"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="codebunny" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipanshushukla&show_icons=true&locale=en&layout=compact" alt="dipanshushukla" /></p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipanshushukla&show_icons=true&locale=en&layout=compact" alt="dipanshushukla" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanshushukla&show_icons=true&locale=en" alt="dipanshushukla" /></p>
 
