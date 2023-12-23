@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **UX Design**
 
-- 👨‍💻 All of my projects are available at [dipanshushukla.com](dipanshushukla.com)
+- 👨‍💻 All of my projects are available at [dipanshushukla.com](https://dipanshushukla.com/)
 
-- 📝 I regularly write articles on [blog.dipanshushukla.com](blog.dipanshushukla.com)
+- 📝 I regularly write articles on [blog.dipanshushukla.com](https://blog.dipanshushukla.com/)
 
 - 📫 How to reach me **shuklascientist5@gmail.com**
 
